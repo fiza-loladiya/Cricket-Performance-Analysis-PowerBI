@@ -19,7 +19,7 @@ Key KPIs shown:
 - Runs, Innings, Matches, Balls Faced
 - Average, Strike Rate
 - Centuries, Half-Centuries, 4s, 6s, Zeros, Not Outs
-![Batting Dashboard](BattingDashboard.png)
+![Batting Dashboard](BowlingDashboard.png)
 
 ### 2) Bowling Data Analysis
 Key KPIs shown:
