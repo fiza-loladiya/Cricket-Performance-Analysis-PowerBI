@@ -19,14 +19,14 @@ Key KPIs shown:
 - Runs, Innings, Matches, Balls Faced
 - Average, Strike Rate
 - Centuries, Half-Centuries, 4s, 6s, Zeros, Not Outs
-![Batting Dashboard](BowlingDashboard.png)
+![Batting Dashboard](Bowling%20Dashboard.png)
 
 ### 2) Bowling Data Analysis
 Key KPIs shown:
 - Wickets, Overs, Maidens, Runs
 - Economy, Average, Strike Rate
 - Best Bowling (Innings), 4W / 5W hauls
-![Bowling Dashboard](BowlingDashboard.png)
+![Bowling Dashboard](Bowling%20Dashboard.png)
 
 
 ### 3) Fielding Data Analysis
@@ -34,7 +34,7 @@ Key KPIs shown:
 - Matches, Innings, Total Dismissals
 - Catches (Fielder / Wicketkeeper), Stumpings
 - Dismissals per innings
-![Fielding Dashboard](FieldingDashboard.png)
+![Fielding Dashboard](Fielding%20Dashboard.png)
 
 
 
